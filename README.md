@@ -16,6 +16,9 @@ events.csv contains event data about each game. Text commentary was scraped from
 ginf.csv - contains metadata and market odds about each game. odds were collected from oddsportal.com
 dictionary.txt contains a dictionary with the textual description of each categorical variable coded with integers
 
+(https://github.com/gotica462/Player_Scouting/blob/main/Resources/dictionary.txt)
+
+
 I selected a simple data since I am doing the project by myself and I want to keep it as simple as possible, and also the data is very detailes and it comes with a text file explaining it. 
 
 
