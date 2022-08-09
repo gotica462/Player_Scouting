@@ -26,9 +26,7 @@ For starting the project. We'll only need the column"Player", "Event-Type", and 
 I selected a simple data since I am doing the project by myself and I want to keep it as simple as possible, and also the data is very detailes and it comes with a text file explaining it. 
 
 
-
-
-Question that we want to answer for our project
+### Question that we want to answer for our project
 
 - Who are the most effective strikers in Europe?
 
