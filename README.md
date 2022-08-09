@@ -6,6 +6,20 @@ The year is 2017, and  your boss has just being named the new general manager of
 Since the team was lacking goals last season, we are going to focus on attacking players. We'll use pandas and machine supervised learning to create a table to show the results of our analysis, and we'll use Tableau to visualize those analyisis. 
 Luckily for us Kaggle has provided us with a data set containing the information for the past 5 years of the most important leagues in Europe. 
 
+### Reasons for Selecting the topic
+
+Soccer is the most exciting sport in the world, and altough is lived with passion and emotions, we can also use data analytics to make informed decision about players. My son plays FIFA constantly in his Playstation, and they have ratings for the player, so I am going to try to translate those statistics into data analysis.
+The dataset is organized in 3 files:
+
+### Description of the source data
+events.csv contains event data about each game. Text commentary was scraped from: bbc.com, espn.com and onefootball.com
+ginf.csv - contains metadata and market odds about each game. odds were collected from oddsportal.com
+dictionary.txt contains a dictionary with the textual description of each categorical variable coded with integers
+
+I selected a simple data since I am doing the project by myself and I want to keep it as simple as possible, and also the data is very detailes and it comes with a text file explaining it. 
+
+
+
 
 Question that we want to answer for our project
 
@@ -13,6 +27,6 @@ Question that we want to answer for our project
 
 - Can we use a machine supervised model to predict the efectivness of a striker?
 
-- Could we look into other aspects of the player and compare them between them so we can have the most data possible to make an informated decision?
+- Could we look into other aspects of the player and compare them between them so we can have the most data possible to make an informed decision?
 
 
