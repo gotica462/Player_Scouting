@@ -18,6 +18,10 @@ dictionary.txt contains a dictionary with the textual description of each catego
 
 (https://github.com/gotica462/Player_Scouting/blob/main/Resources/dictionary.txt)
 
+For starting the project. We'll only need the column"Player", "Event-Type", and "Is_Goal" This will help us determine at first glance the efectivness of the striker.
+
+![image](https://github.com/gotica462/Player_Scouting/blob/main/Images/Data%20Description.png) 
+
 
 I selected a simple data since I am doing the project by myself and I want to keep it as simple as possible, and also the data is very detailes and it comes with a text file explaining it. 
 
