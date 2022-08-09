@@ -32,4 +32,6 @@ Question that we want to answer for our project
 
 - Could we look into other aspects of the player and compare them between them so we can have the most data possible to make an informed decision?
 
+*** Notes *** Since I am doing the project by myself there is no communication protocols or side branches in the project ****
+
 
