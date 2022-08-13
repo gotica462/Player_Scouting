@@ -1,6 +1,6 @@
 # Player Scouting
 
-<img src= "https://github.com/gotica462/Player_Scouting/blob/test/Images/Title.png">
+
 
 
 ## Overview of the Project
