@@ -1,7 +1,7 @@
 
 
 
-<img src= "https://github.com/gotica462/Player_Scouting/blob/test/Images/Title.png">
+###(<img src= "https://github.com/gotica462/Player_Scouting/blob/test/Images/Title.png">)
 
 # PLAYER SCOUTING
 
