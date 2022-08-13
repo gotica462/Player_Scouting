@@ -11,8 +11,7 @@ Luckily for us Kaggle has provided us with a data set containing the information
 
 ### Reasons for Selecting the topic
 
-Soccer is the most exciting sport in the world, and altough is lived with passion and emotions, we can also use data analytics to make informed decision about players. My son plays FIFA constantly in his Playstation, and they have ratings for the player, so I am going to try to translate those statistics into data analysis.
-The dataset is organized in 3 files:
+Soccer is the most exciting sport in the world, and altough is lived with passion and emotions, we can also use data analytics to make informed decision about players. Nowadays every professional team use data analytics to improve their performance and having more information can only be benficial for us.
 
 ### Description of the source data
 events.csv contains event data about each game. Text commentary was scraped from: bbc.com, espn.com and onefootball.com
@@ -37,6 +36,6 @@ I selected a simple data since I am doing the project by myself and I want to ke
 
 - Could we look into other aspects of the player and compare them between them so we can have the most data possible to make an informed decision?
 
-*** Notes *** Since I am doing the project by myself there is no communication protocols or side branches in the project ****
+
 
 
