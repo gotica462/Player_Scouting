@@ -1,5 +1,7 @@
-
+<p align = "center">
 <img src= "https://github.com/gotica462/Player_Scouting/blob/test/Soccer%20Statistics.png" width="%20%" height="%10%">
+</p>
+
 
 ![image](https://user-images.githubusercontent.com/99451833/184459680-d8eb561b-0c8a-43b3-b8fa-f89a918dc73e.png)
 
