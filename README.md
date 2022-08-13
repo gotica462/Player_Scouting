@@ -1,5 +1,5 @@
 
-<img src= "https://github.com/gotica462/Player_Scouting/blob/test/Images/Title.png" width="%20%" height="%120%">
+<img src= "https://github.com/gotica462/Player_Scouting/blob/test/Images/Title.png">
 
 
 
