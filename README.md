@@ -1,5 +1,5 @@
 <p align = "center">
-<img src= "https://github.com/gotica462/Player_Scouting/blob/test/Soccer%20Statistics.png" width="%20%" height="%120%">
+<img src= "https://github.com/gotica462/Player_Scouting/blob/test/Images/Title.png" width="%20%" height="%120%">
 </p>
 
 
