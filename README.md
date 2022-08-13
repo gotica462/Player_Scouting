@@ -1,11 +1,7 @@
 
 <img src= "https://github.com/gotica462/Player_Scouting/blob/test/Images/Title.png">
 
-
-
-![image](https://user-images.githubusercontent.com/99451833/184459680-d8eb561b-0c8a-43b3-b8fa-f89a918dc73e.png)
-
-# Player_Scouting
+# PLAYER SCOUTING
 
 ## Overview of the Project
 
@@ -41,6 +37,6 @@ I selected a simple data since I am doing the project by myself and I want to ke
 
 - Could we look into other aspects of the player and compare them between them so we can have the most data possible to make an informed decision?
 
-*** Notes *** Since I am doing the project by myself there is no communication protocols or side branches in the project ****
+
 
 
