@@ -1,4 +1,8 @@
-# Player_Scouting
+
+
+
+
+# PLAYER SCOUTING
 
 ## Overview of the Project
 
@@ -34,6 +38,6 @@ I selected a simple data since I am doing the project by myself and I want to ke
 
 - Could we look into other aspects of the player and compare them between them so we can have the most data possible to make an informed decision?
 
-*** Notes *** Since I am doing the project by myself there is no communication protocols or side branches in the project ****
+
 
 
