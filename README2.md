@@ -4,8 +4,7 @@
 ![image](https://github.com/gotica462/Player_Scouting/blob/test/Images/3Questions.png)
 ![image](https://github.com/gotica462/Player_Scouting/blob/main/Images/4ETL%20PROCESS.png)
 
-
-                 [link to code](https://github.com/gotica462/Player_Scouting/blob/main/Cleaning_data_player%20scouting.ipynb)
+[link to code](https://github.com/gotica462/Player_Scouting/blob/main/Cleaning_data_player%20scouting.ipynb)
 
 
 ![image](https://github.com/gotica462/Player_Scouting/blob/test/Images/5Dashboard.png)
