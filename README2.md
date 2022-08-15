@@ -2,7 +2,7 @@
 ![image](https://github.com/gotica462/Player_Scouting/blob/test/Images/1Overview.png)
 ![image](https://github.com/gotica462/Player_Scouting/blob/test/Images/2Reasons.png)
 ![image](https://github.com/gotica462/Player_Scouting/blob/test/Images/3Questions.png)
-![image](https://github.com/gotica462/Player_Scouting/blob/test/Images/4ETLprocess.png)
+![image](https://github.com/gotica462/Player_Scouting/blob/main/Images/4ETL%20PROCESS.png)
 ![image](https://github.com/gotica462/Player_Scouting/blob/test/Images/5Dashboard.png)
 ![iamge](https://github.com/gotica462/Player_Scouting/blob/test/Images/6_Fig1.png)
 ![image](https://github.com/gotica462/Player_Scouting/blob/test/Images/7_Fig2.png)
