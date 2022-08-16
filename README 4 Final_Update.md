@@ -3,6 +3,9 @@
 This presentation is best viewed in slideshow please click the link to see it in google slides
 https://docs.google.com/presentation/d/18jmLlHJJ_89ITFHkWgUhxFIOvF5pJ7N0lqQX5qJQN7E/edit?usp=sharing
 
+Here is the link to Tableu Public
+https://public.tableau.com/app/profile/rodrigo.gota/viz/PlayerScouting_16604086632040/ScoutingReport?publish=yes
+
 
 
 ![image](https://github.com/gotica462/Player_Scouting/blob/test/Images/Title.png)
