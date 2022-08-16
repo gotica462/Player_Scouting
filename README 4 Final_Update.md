@@ -1,3 +1,10 @@
+### Note before we begin
+
+This presentation is best viewed in slideshow please click the link to see it in google slides
+https://docs.google.com/presentation/d/18jmLlHJJ_89ITFHkWgUhxFIOvF5pJ7N0lqQX5qJQN7E/edit?usp=sharing
+
+
+
 ![image](https://github.com/gotica462/Player_Scouting/blob/test/Images/Title.png)
 ![image](https://github.com/gotica462/Player_Scouting/blob/test/Images/1Overview.png)
 ![image](https://github.com/gotica462/Player_Scouting/blob/test/Images/2Reasons.png)
