@@ -24,7 +24,7 @@
 
 [link to ensemble code](https://github.com/gotica462/Player_Scouting/blob/main/ML_ensemble.ipynb)
 
-![image](https://github.com/gotica462/Player_Scouting/blob/main/Images/14.%20Adaboost%20Classifier.png)
+![image](https://github.com/gotica462/Player_Scouting/blob/main/Images/14%20gbc.png)
 ![image](https://github.com/gotica462/Player_Scouting/blob/main/Images/15.%20found%20our%20model.png)
 
 [link to ensmeble2 code](https://github.com/gotica462/Player_Scouting/blob/main/ML_ensemble2.ipynb)
