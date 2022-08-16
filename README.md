@@ -1,6 +1,4 @@
 
-https://docs.google.com/presentation/d/18jmLlHJJ_89ITFHkWgUhxFIOvF5pJ7N0lqQX5qJQN7E/edit#slide=id.g13737860c91_0_0
-
 
 # PLAYER SCOUTING
 
