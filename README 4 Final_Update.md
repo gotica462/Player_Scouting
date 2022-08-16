@@ -1,39 +1,34 @@
-# Player_Scouting
+![image](https://github.com/gotica462/Player_Scouting/blob/test/Images/Title.png)
+![image](https://github.com/gotica462/Player_Scouting/blob/test/Images/1Overview.png)
+![image](https://github.com/gotica462/Player_Scouting/blob/test/Images/2Reasons.png)
+![image](https://github.com/gotica462/Player_Scouting/blob/test/Images/3Questions.png)
+![image](https://github.com/gotica462/Player_Scouting/blob/main/Images/4ETL%20PROCESS.png)
 
-## Overview of the Project
+[Link to cleaning data code](https://github.com/gotica462/Player_Scouting/blob/main/Cleaning_data_player%20scouting.ipynb)
 
-The year is 2017, and  your boss has just being named the new general manager of an English soccer team that has just being sold to a conglomerate worth billions of dollars. The good news is that they want to improve the team for next year competition, and they have asked the general manager to come up with a list of players that could improve the team right away. 
-Since the team was lacking goals last season, we are going to focus on attacking players. We'll use pandas and machine supervised learning to create a table to show the results of our analysis, and we'll use Tableau to visualize those analyisis. 
-Luckily for us Kaggle has provided us with a data set containing the information for the past 5 years of the most important leagues in Europe. 
+![image](https://github.com/gotica462/Player_Scouting/blob/test/Images/5Dashboard.png)
+![iamge](https://github.com/gotica462/Player_Scouting/blob/test/Images/6_Fig1.png)
+![image](https://github.com/gotica462/Player_Scouting/blob/test/Images/7_Fig2.png)
+![image](https://github.com/gotica462/Player_Scouting/blob/test/Images/8_Fig3.png)
+![image](https://github.com/gotica462/Player_Scouting/blob/test/Images/9Preliminary%20Results.png)
+![image](https://github.com/gotica462/Player_Scouting/blob/test/Images/10_Machine%20Learning%20MOdels.png)
+![image](https://github.com/gotica462/Player_Scouting/blob/main/Images/11.Machine%20Process.png)
 
-### Reasons for Selecting the topic
+[link to dictionary file](https://github.com/gotica462/Player_Scouting/blob/main/Resources/dictionary.txt)
 
-Soccer is the most exciting sport in the world, and altough is lived with passion and emotions, we can also use data analytics to make informed decision about players. My son plays FIFA constantly in his Playstation, and they have ratings for the player, so I am going to try to translate those statistics into data analysis.
-The dataset is organized in 3 files:
+![image](https://github.com/gotica462/Player_Scouting/blob/main/Images/12.%20Oversampling_Under.png)
 
-### Description of the source data
-events.csv contains event data about each game. Text commentary was scraped from: bbc.com, espn.com and onefootball.com
-ginf.csv - contains metadata and market odds about each game. odds were collected from oddsportal.com
-dictionary.txt contains a dictionary with the textual description of each categorical variable coded with integers
+[link to resampling code](https://github.com/gotica462/Player_Scouting/blob/main/resampling.ipynb)
 
-(https://github.com/gotica462/Player_Scouting/blob/main/Resources/dictionary.txt)
+![image](https://github.com/gotica462/Player_Scouting/blob/main/Images/13.%20Ensemble%20MOdel.png)
 
-For starting the project. We'll only need the column"Player", "Event-Type", and "Is_Goal" This will help us determine at first glance the efectivness of the striker.
+[link to ensemble code](https://github.com/gotica462/Player_Scouting/blob/main/ML_ensemble.ipynb)
 
-![image](https://github.com/gotica462/Player_Scouting/blob/main/Images/Data%20Description.png) 
+![image](https://github.com/gotica462/Player_Scouting/blob/main/Images/14%20gbc.png)
+![image](https://github.com/gotica462/Player_Scouting/blob/main/Images/15%20Found%20our%20model.png)
 
+[link to ensmeble2 code](https://github.com/gotica462/Player_Scouting/blob/main/ML_ensemble2.ipynb)
 
-I selected a simple data since I am doing the project by myself and I want to keep it as simple as possible, and also the data is very detailes and it comes with a text file explaining it. 
-
-
-### Question that we want to answer for our project
-
-- Who are the most effective strikers in Europe?
-
-- Can we use a machine supervised model to predict the efectivness of a striker?
-
-- Could we look into other aspects of the player and compare them between them so we can have the most data possible to make an informed decision?
-
-*** Notes *** Since I am doing the project by myself there is no communication protocols or side branches in the project ****
+![image](https://github.com/gotica462/Player_Scouting/blob/main/Images/16.%20Let's%20get%20ready%20to%20work.png)
 
 
