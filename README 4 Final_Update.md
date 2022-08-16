@@ -28,6 +28,6 @@
 
 [link to ensmeble2 code](https://github.com/gotica462/Player_Scouting/blob/main/ML_ensemble2.ipynb)
 
-![image](https://github.com/gotica462/Player_Scouting/blob/main/Images/16.%20Let's%20get%20ready%20to%20work.png)
+![image](https://github.com/gotica462/Player_Scouting/blob/main/Images/16a%20Let's%20start.png)
 
 
