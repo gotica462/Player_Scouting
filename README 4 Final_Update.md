@@ -40,4 +40,8 @@ https://public.tableau.com/app/profile/rodrigo.gota/viz/PlayerScouting_166040866
 
 ![image](https://github.com/gotica462/Player_Scouting/blob/main/Images/16a%20Let's%20start.png)
 
+[limk to final code](https://github.com/gotica462/Player_Scouting/blob/main/Final_Code.ipynb)
 
+![image](https://github.com/gotica462/Player_Scouting/blob/main/Images/17%20results.png)
+![image](https://github.com/gotica462/Player_Scouting/blob/main/Images/18%20Results.png)
+![image](https://github.com/gotica462/Player_Scouting/blob/main/Images/19%20Conclusions.png)
